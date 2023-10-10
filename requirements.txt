@@ -3,3 +3,4 @@ pandas
 streamlit
 meilisearch
 openai
+python-dotenv
