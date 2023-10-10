@@ -3,4 +3,3 @@ pandas
 streamlit
 meilisearch
 openai
-json
